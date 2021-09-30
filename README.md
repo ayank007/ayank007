@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 Some of my key projects are available at [http://ayank007.github.io/Portfolio](http://ayank007.github.io/Portfolio)
+- 👨‍💻 Some of my key projects are available at [https://ayank007.github.io/portfolio](https://ayank007.github.io/portfolio)
 
 - 📫 How to reach me **ayankoley@gmal.com**
 
