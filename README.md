@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayank007&label=Profile%20views&color=0e75b6&style=flat" alt="ayank007" /> </p>
 
-- 🌱 I’m currently learning **Golang**
-
 - 👨‍💻 Some of my key projects are available at [https://ayank007.github.io/portfolio](https://ayank007.github.io/portfolio)
 
 - 📫 How to reach me **ayankoley@gmal.com**
