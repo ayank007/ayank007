@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my key projects are available at [https://ayank007.github.io/portfolio](https://ayank007.github.io/portfolio)
 
-- 📫 How to reach me **ayankoley@gmal.com**
+- 📫 How to reach me **ayankoley@gmail.com**
 
 - ⚡ Fun fact **I think I am a Fantasista**
 
