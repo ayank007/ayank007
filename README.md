@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayank007&label=Profile%20views&color=0e75b6&style=flat" alt="ayank007" /> </p>
 
-- 👨‍💻 Some of my key projects are available at [https://ayank007.github.io/portfolio](https://ayank007.github.io/portfolio)
+- 👨‍💻 Some of my key projects are available at [https://ayankoley.com](https://ayankoley.com)
 
 - 📫 How to reach me **ayankoley@gmal.com**
 
