@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my key projects are available at [https://ayankoley.com](https://ayankoley.com)
 
-- 📫 How to reach me **ayankoley@gmal.com**
+- 📫 How to reach me **ayankoley@gmail.com**
 
 - ⚡ Fun fact **I think I am a Fantasista**
 
